@@ -1,5 +1,5 @@
-<h1 align="center">🌸 Hello, I'm Eman</h1>
-<h3 align="center">🧠 DevOps & Kubernetes Learner | 🚀 Beginner in Cloud & Containers | 💻 Passionate about Learning</h3>
+<h1 align="center">👉 Hello, I'm Eman</h1>
+<h3 align="center">🧠 DevOps Learner |  💻 Passionate about Learning</h3>
 
 ---
 
@@ -68,18 +68,6 @@ Since you’re using KIND, open in your browser:
 If it doesn’t open on that port, use port-forwarding:
 .kubectl port-forward svc/web-service -n demo-web 8080:80
 Then visit 👉 http://localhost:8080
-
----
-
-💡 My Tech Stack
-<p align="center"> <img src="https://skillicons.dev/icons?i=kubernetes,docker,linux,bash,git,vscode" /> </p>
-📊 Project Progress
-Metric	Status
-🌟 Cluster Created	✅
-🧱 Pods Deployed	✅
-⚙️ Deployments Working	✅
-🌐 Service Accessible	✅
-💻 Project Completed	🏁
 
 ---
 
